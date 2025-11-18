@@ -65,7 +65,7 @@ Each line in the input file represents one process.
 
 ---
 
-## 💻 Compilation
+## Compilation
 
 To build the program:
 
