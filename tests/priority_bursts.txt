@@ -1,0 +1,6 @@
+# Process bursts with priorities:
+# Format: CPU IO CPU ...
+5 2 3
+2 4 1
+8 3 2
+4 1 5

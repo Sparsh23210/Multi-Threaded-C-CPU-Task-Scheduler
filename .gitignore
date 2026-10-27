@@ -1,0 +1,16 @@
+# Build artifacts
+obj/
+bin/
+build/
+*.o
+*.obj
+*.exe
+*.out
+scheduler
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.suo
+*.user
